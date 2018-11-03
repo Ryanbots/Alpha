@@ -1,0 +1,19 @@
+.DS_Store
+node_modules
+line.thrift
+src/bot.js
+src/tmp
+test.js
+download/
+src
+
+    pkg install nodejs -y
+    pkg install git -y
+    git clone https://github.com/Nadyatjia/BotAlphatJS
+    pkg install nano
+    cd AlphatJS
+    npm install
+    npm start
+
+    cd AlphatJS
+    npm start
